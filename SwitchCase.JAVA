@@ -59,7 +59,7 @@ public class SwitchCase {
 
 			default:
 				monthname = "Give Corrct month details";
-		}
+		 }
 
 		System.out.print(monthname);
 	}
