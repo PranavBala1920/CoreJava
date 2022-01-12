@@ -10,5 +10,7 @@ public class Mainframe extends JFrame {
 		setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
 		setVisible(true);
 		JLabel lable = new JLabel("Welcome Coding Ninjas");
-}
+		
+     }
+	
 }
