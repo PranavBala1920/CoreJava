@@ -14,7 +14,9 @@ public class WhileLoop {
 		System.out.println("number 10 is found ");
 		break;
 	}
+		
 		number++;
+		
 	}
 
 	System.out.print("program end");
